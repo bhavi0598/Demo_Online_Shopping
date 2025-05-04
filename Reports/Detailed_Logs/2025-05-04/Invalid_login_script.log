@@ -1,0 +1,4 @@
+2025-05-04 14:01:12,300 - INFO - ***************Started:Test script Invalid login******************
+2025-05-04 14:01:13,153 - INFO - ***************Passed:Login page title is verified******************
+2025-05-04 14:01:14,114 - INFO - ******************Passed:Verified error message for providing invalid password *************************
+2025-05-04 14:01:14,114 - INFO - ***************Completed::Passed-Test script Invalid login******************

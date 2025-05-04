@@ -1,0 +1,5 @@
+<testsettings>
+    <UAT>https://demowebshop.tricentis.com/</UAT>
+    <Enviorment>UAT</Enviorment>
+    <Release>May</Release>
+</testsettings>
