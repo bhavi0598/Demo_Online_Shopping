@@ -77,3 +77,10 @@ class Universal:
         driver.save_screenshot(path)
         return path
 
+    @staticmethod
+    def get_object_locator(section, key):
+        config = configparser.ConfigParser()
+        config.read('C:\\PycharmProjects\\Demo_Online_Shopping\\Objects\\objectlocators.ini')
+        return config.get(section, key)
+
+

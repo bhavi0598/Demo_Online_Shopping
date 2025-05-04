@@ -1,5 +1,5 @@
-from pageObjects.LoginPage import Loginpage
-from pageObjects.Universal import Universal
+from Pages.LoginPage import Loginpage
+from Pages.Universal import Universal
 
 def test_invalid_pwd_login():
     Universal.test_launch_application()

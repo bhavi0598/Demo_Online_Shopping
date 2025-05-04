@@ -1,4 +1,4 @@
-2025-05-04 14:01:20,413 - INFO - ***************Started:Test script valid login******************
-2025-05-04 14:01:21,290 - INFO - ***************Passed:Login page title is verified******************
-2025-05-04 14:01:23,350 - INFO - ******************Passed:Log in successful for valid user name*************************
-2025-05-04 14:01:23,350 - INFO - ***************Completed::Passed-Test script valid login******************
+2025-05-04 16:31:19,111 - INFO - ***************Started:Test script valid login******************
+2025-05-04 16:31:20,060 - INFO - ***************Passed:Login page title is verified******************
+2025-05-04 16:31:22,336 - INFO - ******************Passed:Log in successful for valid user name*************************
+2025-05-04 16:31:22,336 - INFO - ***************Completed::Passed-Test script valid login******************
